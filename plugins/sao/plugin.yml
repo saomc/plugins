@@ -1,0 +1,8 @@
+name: sao
+main: SwordArtOnline
+version: 1
+
+commands:
+   gm:
+      description: This is a demo command.
+      usage: /<command>
